@@ -1,0 +1,95 @@
+    1  ls .
+    2  ls -alt
+    3  tcsh
+    4  cd .
+    5  cd Documents
+    6  ls -alt
+    7  cd JABGit/
+    8  ls -alt
+    9  cd SugarCRM
+   10  git
+   11  cd Documents
+   12  pwd
+   13  du
+   14  fn *
+   15  ls -alt
+   16  du
+   17  cd .git
+   18  ls -alt
+   19  cd objects
+   20  ls -alt
+   21  more info
+   22  cd info
+   23  ls -alt
+   24  du
+   25  cd ..
+   26  cd ..
+   27  pwd
+   28  cd ..
+   29  du
+   30  pwd
+   31  cd ..
+   32  ls -alt
+   33  cd HR-Portal/
+   34  ls -alt
+   35  vi jab.inc
+   36  du
+   37  pwd
+   38  cd ..
+   39  pwd
+   40  ls -alt
+   41  pwd
+   42  mkdir EKoss_Dev
+   43  cd EKoss_Dev
+   44  vi README
+   45  git init
+   46  github
+   47  pwd
+   48  ls -alt
+   49  git init
+   50  git add README
+   51  git commit -m 'first commit'
+   52  ls -alt
+   53  git init
+   54  cd 
+   55  cd ~
+   56  cd github
+   57  ls -alt
+   58  cd EKoss_Dev
+   59  ls -alt
+   60  vi README
+   61  git init
+   62  git status
+   63  git add README 
+   64  get commit -m 'first commit'
+   65  git commit -m 'first commit'
+   66  git remote add origin git@github.com:ekoss/EKoss_Dev.git
+   67  git push origin master
+   68  git push origin master
+   69  git push origin master
+   70  git push origin master
+   71  pwd
+   72  cd ..
+   73  cd Documents
+   74  pwd
+   75  cd ..
+   76  cd Documents
+   77  ls -alt
+   78  cd JABGit/
+   79  ls -alt
+   80  history
+   81  pwd
+   82  cd ~
+   83  ls -alt
+   84  cd github
+   85  ls -alt
+   86  cd EKoss_Dev/
+   87  ls -alt
+   88  vi README2
+   89  git push origin master
+   90  git push origin master
+   91  history
+   92  git add README2
+   93  git commit -m 'second commit'
+   94  git push origin master
+   95  history > history.txt
